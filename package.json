@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fawazahmed0/npmpublishtest/issues"
   },
-  "homepage": "https://github.com/fawazahmed0/npmpublishtest#readme"
+  "homepage": "https://github.com/fawazahmed0/npmpublishtest#readme",
+  "dependencies": {
+    "npm-registry-client": "^8.6.0"
+  }
 }
